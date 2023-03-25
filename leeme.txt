@@ -1,0 +1,3 @@
+Para ejecutar el fichero main.js en la consola:
+cd <ruta al fichero> 
+node main.js
